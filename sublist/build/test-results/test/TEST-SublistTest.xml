@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SublistTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-11-24T10:42:17" hostname="DESKTOP-E78M7B7" time="0.036">
+  <properties/>
+  <testcase name="testSublistCheckDoesNotAbortAfterFalseStart" classname="SublistTest" time="0.034"/>
+  <testcase name="testInMiddleOfSuperlist" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistAtEnd" classname="SublistTest" time="0.0"/>
+  <testcase name="testAtEndOfSuperlist" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistInMiddle" classname="SublistTest" time="0.0"/>
+  <testcase name="testSublistCheckHandlesExtraneousRepeatsOfFirstEntry" classname="SublistTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

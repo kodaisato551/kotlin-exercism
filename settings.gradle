@@ -1,0 +1,5 @@
+rootProject.name = 'kotlin-exercism'
+
+include 'sublist'
+include 'robot-name'
+include 'robot-simulator'
