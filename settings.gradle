@@ -4,3 +4,7 @@ include 'sublist'
 include 'robot-name'
 include 'robot-simulator'
 include 'diffie-hellman'
+
+include 'rail-fence-cipher'
+include 'binary-search'
+include 'sieve'
